@@ -3,7 +3,9 @@
 
 - 📚 B.Sc. Industrial engineering graduate **specializing in information systems**
 
-- 📱 My most recent project in React Native ['Mitlabshut' app](https://github.com/TalFranco/Final-Project-Client)
+- 📱 My most recent project in React Native ['Mitlabshut' app](https://github.com/OsherT/Mitlabshut-app-client)
+
+- 💬 Ask me about React, React Native, C#
 
 - 📫 How to reach me **osherhaim6@gmail.com**
 
